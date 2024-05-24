@@ -1,7 +1,8 @@
 ### Olá, eu sou o Guilherme Martins👋
 
 - 🔭 Desenvolver Front-end
-- 🌱 Atualmente estudando JavaScript
+- 🌱 Atualmente cursando Análise e desenvolvimento de sistemas 
+- 🖥️ Estudando JavaScript
 - 📧 Contate-me: guimartsferre666@gmail.com
 
 <div style="display: inline_block"><br>
